@@ -21,6 +21,23 @@ It is basically a [DBMS Web-based project] with both admin and user layouts.
 11. First register and then login
 12. Admin login details  Email=admin@gmail.com and Password=123456789.
 
-## Screen Captures 
-![Link to model] (screenshot/Screenshot-1.png)
+## Home Page
+![](Screenshots/Home-page)
+
+## Login/Register page 
+![](Screenshots/Login-page)
+![](Screenshots/Register-page)
+
+## Admin Page under valid credentials provided
+![](Screenshots/Admin-page)
+
+## Product to be shown when user clicks on any category list
+![](Screenshots/Product-page)
+
+## Cart details when user had few items in cart
+![](Screenshots/Cart-page)
+
+## Payment process with checkout page with minimal validations after user fills in the shipment data 
+![](Screenshots/Payment-page)
+
 
