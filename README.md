@@ -21,3 +21,6 @@ It is basically a [DBMS Web-based project] with both admin and user layouts.
 11. First register and then login
 12. Admin login details  Email=admin@gmail.com and Password=123456789.
 
+## Screen Captures 
+![ScreenShot] (screenshot/Screenshot-1.png)
+
