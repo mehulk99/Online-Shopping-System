@@ -22,20 +22,20 @@ It is basically a [DBMS Web-based project] with both admin and user layouts.
 12. Admin login details  Email=admin@gmail.com and Password=123456789.
 
 # Home Page
-![](Screenshots/Home-page)
+![](Screenshots/Homepage)
 
 # Login/Register page 
-![](Screenshots/Login-page)
-![](Screenshots/Register-page)
+![](Screenshots/Loginpage)
+![](Screenshots/Registerpage)
 
 # Admin Page under valid credentials provided
-![](Screenshots/Admin-page)
+![](Screenshots/Adminpage)
 
 # Product to be shown when user clicks on any category list
-![](Screenshots/Product-page)
+![](Screenshots/Productpage)
 
 # Cart details when user had few items in cart
-![](Screenshots/Cart-page)
+![](Screenshots/Cartpage)
 
 # Payment process with checkout page with minimal validations after user fills in the shipment data 
-![](Screenshots/Payment-page)
+![](Screenshots/Paymentpage)
