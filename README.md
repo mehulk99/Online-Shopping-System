@@ -1,8 +1,8 @@
-## Online Shopping System 
+# Online Shopping System 
 
 It is basically a [DBMS Web-based project] with both admin and user layouts.
 
-## Installation
+# Installation
 
 1. Install XAMPP or WAMPP.
 2. Open XAMPP Control panal and start [apache] and [mysql] .
@@ -21,23 +21,21 @@ It is basically a [DBMS Web-based project] with both admin and user layouts.
 11. First register and then login
 12. Admin login details  Email=admin@gmail.com and Password=123456789.
 
-## Home Page
+# Home Page
 ![](Screenshots/Home-page)
 
-## Login/Register page 
+# Login/Register page 
 ![](Screenshots/Login-page)
 ![](Screenshots/Register-page)
 
-## Admin Page under valid credentials provided
+# Admin Page under valid credentials provided
 ![](Screenshots/Admin-page)
 
-## Product to be shown when user clicks on any category list
+# Product to be shown when user clicks on any category list
 ![](Screenshots/Product-page)
 
-## Cart details when user had few items in cart
+# Cart details when user had few items in cart
 ![](Screenshots/Cart-page)
 
-## Payment process with checkout page with minimal validations after user fills in the shipment data 
+# Payment process with checkout page with minimal validations after user fills in the shipment data 
 ![](Screenshots/Payment-page)
-
-
