@@ -26,7 +26,6 @@ It is basically a [DBMS Web-based project] with both admin and user layouts.
 
 # Login/Register page 
 ![](Screenshots/Loginpage)
-![](Screenshots/Registerpage)
 
 # Admin Page under valid credentials provided
 ![](Screenshots/Adminpage)
